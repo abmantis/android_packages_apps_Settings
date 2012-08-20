@@ -4629,4 +4629,10 @@
     <string name="regulatory_info_text"></string>
     <!-- Roaming Date Settings -->
     <string name="label_global_roaming_settings">Global roaming settings</string>
+    <!-- NFC polling -->
+    <string name="nfc_polling_mode_title">NFC polling mode</string>
+    <string name="nfc_polling_mode_screen_off">Screen off</string>
+    <string name="nfc_polling_mode_screen_locked">Screen on, locked</string>
+    <string name="nfc_polling_mode_screen_unlocked">Screen on, unlocked (default)</string>
+
 </resources>
